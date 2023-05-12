@@ -1,0 +1,166 @@
+{
+  "phoneNumber": "052-7594720",
+  "whatsappNumber": "972528846347",
+  "email": "Travel.with.noa.office@gmail.com",
+  "instagram" : "https://www.instagram.com/travel.with.noa",
+  "gallery": [
+    {
+      "src": "1.jpg",
+      "vertical": false
+    },
+    {
+      "src": "2.jpg",
+      "vertical": false
+    },
+    {
+      "src": "3.jpg",
+      "vertical": false
+    },
+    {
+      "src": "4.jpg",
+      "vertical": false
+    },
+    {
+      "src": "5.jpg",
+      "vertical": false
+    },
+    {
+      "src": "6.jpg",
+      "vertical": false
+    },
+    {
+      "src": "7.jpg",
+      "vertical": false
+    },
+    {
+      "src": "8.jpg",
+      "vertical": false
+    },
+    {
+      "src": "10.jpg",
+      "vertical": false
+    },
+    {
+      "src": "11.jpg",
+      "vertical": false
+    },
+    {
+      "src": "12.jpg",
+      "vertical": false
+    },
+    {
+      "src": "13.jpg",
+      "vertical": false
+    },
+    {
+      "src": "14.jpg",
+      "vertical": false
+    },
+    {
+      "src": "15.jpg",
+      "vertical": false
+    },
+    {
+      "src": "16.jpg",
+      "vertical": false
+    },
+    {
+      "src": "17.jpg",
+      "vertical": false
+    },
+    {
+      "src": "18.jpg",
+      "vertical": false
+    },
+    {
+      "src": "19.jpg",
+      "vertical": false
+    },
+    {
+      "src": "20.jpg",
+      "vertical": false
+    },
+    {
+      "src": "21.jpg",
+      "vertical": false
+    },
+    {
+      "src": "9.jpg",
+      "vertical": false
+    }
+  ],
+  "art": [
+    {
+      "title": "title1.png",
+      "art": "poam1.png"
+    },
+    {
+      "title": "title2.png",
+      "art": "poam2.png"
+    },
+    {
+      "title": "title3.png",
+      "art": "poam3.png"
+    },
+    {
+      "title": "title4.png",
+      "art": "poam4.png"
+    },
+    {
+      "title": "title5.png",
+      "art": "poam5.png"
+    },
+    {
+      "title": "title6.png",
+      "art": "poam6.png"
+    },
+    {
+      "title": "title7.png",
+      "art": "poam7.png"
+    },
+    {
+      "title": "title8.png",
+      "art": "poam8.png"
+    },
+    {
+      "title": "title9.png",
+      "art": "poam9.png"
+    },
+    {
+      "title": "title10.png",
+      "art": "poam10.png"
+    },
+    {
+      "title": "title11.png",
+      "art": "poam11.png"
+    },
+    {
+      "title": "title12.png",
+      "art": "poam12.png"
+    },
+    {
+      "title": "title13.png",
+      "art": "poam13.png"
+    },
+    {
+      "title": "title14.png",
+      "art": "poam14.png"
+    },
+    {
+      "title": "title15.png",
+      "art": "poam15.png"
+    },
+    {
+      "title": "title16.png",
+      "art": "poam16.png"
+    },
+    {
+      "title": "title17.png",
+      "art": "poam17.png"
+    },
+    {
+      "title": "title18.png",
+      "art": "poam18.png"
+    }
+  ]
+}
